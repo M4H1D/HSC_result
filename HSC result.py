@@ -54,3 +54,5 @@ if (0.0<=a<=3.75) and (0.0<=b<=1.25):
 		print("faijlami korle HSC result show korbe na")
 else:
 	print("faijlami koris na.faijlami korle tor result show korbe na")
+if c==5.00:
+	print("Congratulation,You have got A+.")
