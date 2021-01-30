@@ -37,7 +37,7 @@ b=((y*25)/100)
 c=(a+b)
 if (0.0<=a<=3.75) and (0.0<=b<=1.25):
 	if (0<=c<=5):
-		print("your HSC result=",c)
+		print("your HSC result(without 4th subject)=",c)
 		if (c==5.00):
 			print("HSC=A+")
 		elif (4.00<=c<=4.99):
